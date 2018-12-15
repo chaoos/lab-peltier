@@ -1,0 +1,15 @@
+# windows thumbnail cache
+Thumbs.db
+
+# log dir
+/log
+
+# python cache dir
+/__pycache__
+
+# generated pdf file
+*.pdf
+main.out
+main.log
+main.thm
+main.aux
