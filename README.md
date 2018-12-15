@@ -1,2 +1,2 @@
-# LabTemplate
-Empty Template for Lab Reports
+# Peltier Effect
+Lab report for the Peltier effect
